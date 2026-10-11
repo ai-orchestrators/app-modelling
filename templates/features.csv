@@ -1,0 +1,8 @@
+feature,area,priority,original,build,notes
+Sign up and sign in with email,auth,must,yes,no,
+Create an event type,core,must,yes,no,
+Guest books a slot from a public page,core,must,yes,no,
+Reminder email 24 hours before,notifications,should,yes,no,
+Export bookings to CSV,reporting,could,yes,no,
+Round-robin across a team,core,should,yes,skip,Out of scope for v1 per client
+SMS reminders,notifications,should,no,no,Added from user evidence
